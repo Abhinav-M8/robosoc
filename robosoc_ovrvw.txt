@@ -1,0 +1,192 @@
+Images/Renders--
+Upload high-quality PNG screenshots:
+Isometric view
+Exploded view
+Chassis
+Dribbler/kicker mechanism
+Electronics layout
+
+
+++++++++++++images+++++++++++++
+Front View.png
+Top View.png
+Isometric View.png
+Exploded View.png
+
++++++++++renders+++++++++++++++
+01_Hero_Render.png
+02_Exploded_View.png
+03_Drivetrain.png
+04_Ball_Mechanism.png
+05_Manufacturing_View.png
+
+==================================
+
+readme list-
+Project overview
+Competition purpose
+Design requirements
+Dimensions
+Weight
+Key mechanisms
+CAD screenshots
+Bill of materials
+
+github overview-
+robosoc/
+│
+├── README.md
+├── LICENSE
+├── NOTICE.md
+│
+├── v1_concept/
+│   ├── robosoc_v1.step
+│   ├── robosoc_v1.f3d
+│   └── images/
+|   |   |---render1.png
+│   | 	├── render2.png
+│   |	├── exploded_view.png
+│   |
+|   |--electronics/
+|        |---wiring diag.pdf
+|        |---kicad file(or link to kicad_github)
+|
+├── v2_concept/
+│   ├── robosoc_v2.step
+│   ├── robosoc_v2.f3d
+│   └── images/
+│
+├── v3_competition/
+│   ├── robosoc_v3.step
+│   ├── robosoc_v3.f3d
+│   └── images/
+│
+├── renders/
+├── drawings/
+└── docs/
+
+
+---------------------------gitignore-------------------------
+# Fusion backups
+*.bak
+*.tmp
+
+# Autodesk generated
+*.f3z.autosave
+*.autosave
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Temporary files
+temp/
+cache/
+
+# Fusion local cache exports
+*.lock
+
+---------------readme-------------
+
+
+---------------notice--------------
+INTELLECTUAL PROPERTY NOTICE
+
+Author: Abhinav
+
+The contents of this repository are published solely as a
+professional portfolio.
+
+Ownership
+---------
+
+All CAD models, assemblies, renders, drawings,
+documentation, mechanisms, concepts, design approaches,
+and engineering work contained herein remain the exclusive
+property of the author.
+
+Permitted Use
+-------------
+
+Viewing the repository for:
+
+- Employment evaluation
+- Recruitment assessment
+- Academic review
+- Non-commercial educational reference
+
+Prohibited Use
+--------------
+
+Without prior written authorization, users may not:
+
+- Copy the design
+- Replicate components
+- Use portions of the design in a commercial robot
+- Produce derivative works
+- Manufacture physical products
+- Sell products based on these designs
+- Redistribute project files
+
+Attribution
+-----------
+
+Any authorized derivative use must acknowledge the original
+author in a clear and visible manner.
+
+Commercial Use
+--------------
+
+Commercial use requires explicit written permission from the
+author.
+
+Reservation of Rights
+---------------------
+
+All rights not expressly granted remain reserved.
+
+
+
+--------------------------license------------------------------------
+Copyright (c) 2026 Abhinav
+
+All Rights Reserved.
+
+This repository and all associated designs, CAD models,
+documentation, renderings, drawings, concepts, and derivative
+works are the exclusive intellectual property of the author.
+
+Permission is granted to view and evaluate this repository solely
+for:
+
+- Employment evaluation
+- Internship evaluation
+- Academic review
+- Personal learning
+
+No permission is granted to:
+
+- Copy
+- Modify
+- Reproduce
+- Manufacture
+- Redistribute
+- Commercialize
+- Incorporate into another design
+
+without prior written permission from the author.
+
+All rights not expressly granted are reserved by the author.
+
+
+connections:
+ ├   └  ─  │ 
