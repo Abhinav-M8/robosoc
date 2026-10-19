@@ -135,9 +135,10 @@ Designed to improve ball acquisition, retention, and control during gameplay.
     - Fusion 360
 
 1. Bill of Materials (BOM)
+   
 |Item	|Quantity	|Description|
 |-------|-----------|-----------|
-Chassis Plates	|1+1	|Structural components
+|Chassis Plates	|1+1	|Structural components|
 Motors	|2	|Drive motors
 Wheels	|4	|Competition wheels
 Motor Mounts	|nil	|Mounting hardware
@@ -203,8 +204,8 @@ This repository is provided solely for:
 [key mechanisms](#key-mechanisms)<br>
 [repo contents](#this-repository-contains)<br>
 
-[LICENSE.md]()<br>
-[NOTICE.md]()<br>
+[LICENSE.md](https://github.com/Abhinav-M8/robosoc/blob/main/LICENSE.md)<br>
+[NOTICE.md](https://github.com/Abhinav-M8/robosoc/blob/main/NOTICE.md)<br>
 for complete usage terms.
 
 Author: 
